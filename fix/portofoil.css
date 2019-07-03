@@ -1,0 +1,31 @@
+.grid{
+	display: grid;
+	position: relative;
+	background-color: green; 
+		
+	
+
+
+}
+div.photo 
+{
+position: absolute;
+top:8px;
+right: 10px;
+width: 25px;
+height: 15px;
+
+
+}
+.grid2{
+	display: grid;
+	grid-template-rows: 20% 50% 30% 
+}
+
+div#lg{
+	font-size: 25px;
+}
+
+div.job{
+
+}
